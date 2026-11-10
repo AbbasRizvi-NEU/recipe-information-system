@@ -1,0 +1,4 @@
+Rice,200,g
+Lemon,1,piece
+Pasta,200,g
+Tomato,250,g

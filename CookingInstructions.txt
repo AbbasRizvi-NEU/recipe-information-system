@@ -1,0 +1,4 @@
+1,Cook the rice
+2,Stir in lemon juice
+1,Cook the pasta
+2,Simmer tomatoes and toss with pasta

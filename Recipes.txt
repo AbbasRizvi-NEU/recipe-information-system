@@ -1,0 +1,2 @@
+Lemon Rice|Vegan|Indian|Rice,200,g;Lemon,1,piece|1,Cook the rice;2,Stir in lemon juice||25 mins
+Tomato Pasta|Vegetarian|Italian|Pasta,200,g;Tomato,250,g|1,Cook the pasta;2,Simmer tomatoes and toss with pasta|#Wheat|30 mins
